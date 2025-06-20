@@ -3,12 +3,12 @@
 import tweepy
 import pandas as pd
 from datetime import datetime
-import os
-from dotenv import load_dotenv
+
 
 # === 1. AUTHENTICATE ===
 # Replace with your Bearer Token
-BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAO5m2gEAAAAAhjZrZZGn%2FNlvy%2Fn4%2FxPRyvn5ThQ%3DwV36g91EfWPPhcEBLaryEffg215BXI2RUP2fUoEdMVNQx2v9I0"
+BEARER_TOKEN = "AAAAAAAAAAAAAAAAAAAAAO5m2gEAAAAAqZRYlzCH8z1Fs4znpxhbgySKOD4%3Dhoy9aiBRQSzH9MqqgDNkfWZXSOYRTRTJkgdq7S10JvmRu6UWU5"
+
 client = tweepy.Client(bearer_token=BEARER_TOKEN)
 
 # === 2. SEARCH RECENT TWEETS ===
