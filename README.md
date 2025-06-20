@@ -90,7 +90,6 @@ sentiment_crypto_project/
 ## 📊 Example Output
 
 * Classification report for sentiment model
-* Pie chart of sentiment distribution
 * Crypto price + sentiment score CSVs
 * (Optional) Portfolio allocation CSV
 
