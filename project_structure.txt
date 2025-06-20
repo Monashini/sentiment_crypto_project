@@ -1,0 +1,147 @@
+.
+├── .env
+├── .git
+│   ├── COMMIT_EDITMSG
+│   ├── FETCH_HEAD
+│   ├── HEAD
+│   ├── ORIG_HEAD
+│   ├── config
+│   ├── description
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   └── update.sample
+│   ├── index
+│   ├── info
+│   │   └── exclude
+│   ├── logs
+│   │   ├── HEAD
+│   │   └── refs
+│   ├── objects
+│   │   ├── 09
+│   │   ├── 15
+│   │   ├── 1e
+│   │   ├── 23
+│   │   ├── 29
+│   │   ├── 2b
+│   │   ├── 2c
+│   │   ├── 47
+│   │   ├── 4e
+│   │   ├── 53
+│   │   ├── 5b
+│   │   ├── 63
+│   │   ├── 66
+│   │   ├── 68
+│   │   ├── 69
+│   │   ├── 6d
+│   │   ├── 6e
+│   │   ├── 75
+│   │   ├── 77
+│   │   ├── 79
+│   │   ├── 7a
+│   │   ├── 80
+│   │   ├── 81
+│   │   ├── 8c
+│   │   ├── 95
+│   │   ├── 9c
+│   │   ├── a9
+│   │   ├── b1
+│   │   ├── b2
+│   │   ├── b4
+│   │   ├── b8
+│   │   ├── b9
+│   │   ├── c6
+│   │   ├── c9
+│   │   ├── d0
+│   │   ├── d6
+│   │   ├── e1
+│   │   ├── e6
+│   │   ├── e9
+│   │   ├── ec
+│   │   ├── f0
+│   │   ├── f9
+│   │   ├── info
+│   │   └── pack
+│   └── refs
+│       ├── heads
+│       ├── remotes
+│       └── tags
+├── .venv
+│   ├── .gitignore
+│   ├── bin
+│   │   ├── Activate.ps1
+│   │   ├── __pycache__
+│   │   ├── activate
+│   │   ├── activate.csh
+│   │   ├── activate.fish
+│   │   ├── dotenv
+│   │   ├── f2py
+│   │   ├── fonttools
+│   │   ├── normalizer
+│   │   ├── numpy-config
+│   │   ├── pip
+│   │   ├── pip3
+│   │   ├── pip3.11
+│   │   ├── pwiz.py
+│   │   ├── pyftmerge
+│   │   ├── pyftsubset
+│   │   ├── python -> python3.11
+│   │   ├── python3 -> python3.11
+│   │   ├── python3.11 -> /Library/Frameworks/Python.framework/Versions/3.11/bin/python3.11
+│   │   ├── sample
+│   │   ├── tabulate
+│   │   ├── ttx
+│   │   └── websockets
+│   ├── include
+│   │   └── python3.11
+│   ├── lib
+│   │   └── python3.11
+│   ├── pyvenv.cfg
+│   └── share
+│       └── man
+├── LICENSE
+├── README.md
+├── data
+│   ├── cleaned_tweets.csv
+│   ├── crypto_live_tweets.csv
+│   └── crypto_prices.csv
+├── main.py
+├── matlab
+│   ├── portfolio_backtest.m
+│   ├── sentiment_visualization.m
+│   └── time_series_model.m
+├── models
+│   ├── sentiment_model.joblib
+│   ├── vectorizer.joblib
+│   └── vectorizer_ngram.joblib
+├── notebooks
+│   ├── build_trading_strategy.py
+│   ├── crypto_portfolio_optimizer.py
+│   ├── fetch_crypto_prices.py
+│   ├── fetch_crypto_tweets.py
+│   ├── predict_crypto_sentiment.py
+│   ├── predict_live_crypto_sentiment.py
+│   ├── time_series_model.py
+│   ├── train_sentiment_model.py
+│   ├── visualize_portfolio.py
+│   └── visualize_sentiment_results.py
+├── output
+│   ├── crypto_sentiment_predictions.csv
+│   ├── live_crypto_sentiment.csv
+│   ├── portfolio_allocation.csv
+│   └── sentiment_distribution.png
+├── project_structure.txt
+├── requirements.txt
+└── results
+
+70 directories, 75 files
