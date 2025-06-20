@@ -1,7 +1,3 @@
-Absolutely! Here's a sample README.md you can use for your sentiment\_crypto\_project. You can copy this into a file named README.md in your project root:
-
-📄 README.md
-
 # 🚀 Sentiment Crypto Project
 
 Analyze cryptocurrency-related tweets using sentiment analysis and visualize how public perception correlates with crypto price movements. This project also includes an optional portfolio allocation component based on sentiment scores.
@@ -102,5 +98,3 @@ sentiment_crypto_project/
 ## 📜 License
 
 MIT License — feel free to use, modify, and share this project.
-
-Let me know if you'd like to generate a Markdown file automatically or want to push it to GitHub!
